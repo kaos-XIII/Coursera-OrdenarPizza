@@ -1,0 +1,321 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B89208F1CD4CBDC0065033D /* TamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B89208E1CD4CBDC0065033D /* TamViewController.swift */; };
+		3B8920911CD4CC020065033D /* MasaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8920901CD4CC020065033D /* MasaViewController.swift */; };
+		3B8920931CD4CC190065033D /* QuesoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8920921CD4CC190065033D /* QuesoViewController.swift */; };
+		3B8920951CD4CC2C0065033D /* IngredientesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8920941CD4CC2C0065033D /* IngredientesViewController.swift */; };
+		3B8920971CD4CC4B0065033D /* ConfiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8920961CD4CC4B0065033D /* ConfiViewController.swift */; };
+		3B94E65A1CD396DA0011B6AC /* NavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B94E6591CD396DA0011B6AC /* NavigationController.swift */; };
+		3B9713191CD2585F00F897CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9713181CD2585F00F897CC /* AppDelegate.swift */; };
+		3B97131B1CD2585F00F897CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B97131A1CD2585F00F897CC /* ViewController.swift */; };
+		3B97131E1CD2585F00F897CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B97131C1CD2585F00F897CC /* Main.storyboard */; };
+		3B9713201CD2585F00F897CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B97131F1CD2585F00F897CC /* Assets.xcassets */; };
+		3B9713231CD2585F00F897CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B9713211CD2585F00F897CC /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3B89208E1CD4CBDC0065033D /* TamViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TamViewController.swift; sourceTree = "<group>"; };
+		3B8920901CD4CC020065033D /* MasaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasaViewController.swift; sourceTree = "<group>"; };
+		3B8920921CD4CC190065033D /* QuesoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuesoViewController.swift; sourceTree = "<group>"; };
+		3B8920941CD4CC2C0065033D /* IngredientesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngredientesViewController.swift; sourceTree = "<group>"; };
+		3B8920961CD4CC4B0065033D /* ConfiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfiViewController.swift; sourceTree = "<group>"; };
+		3B94E6591CD396DA0011B6AC /* NavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationController.swift; sourceTree = "<group>"; };
+		3B9713151CD2585F00F897CC /* OrdenarPizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrdenarPizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B9713181CD2585F00F897CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3B97131A1CD2585F00F897CC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3B97131D1CD2585F00F897CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3B97131F1CD2585F00F897CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3B9713221CD2585F00F897CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3B9713241CD2585F00F897CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B9713121CD2585E00F897CC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B97130C1CD2585E00F897CC = {
+			isa = PBXGroup;
+			children = (
+				3B9713171CD2585F00F897CC /* OrdenarPizza */,
+				3B9713161CD2585F00F897CC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3B9713161CD2585F00F897CC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B9713151CD2585F00F897CC /* OrdenarPizza.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3B9713171CD2585F00F897CC /* OrdenarPizza */ = {
+			isa = PBXGroup;
+			children = (
+				3B97131F1CD2585F00F897CC /* Assets.xcassets */,
+				3B9713211CD2585F00F897CC /* LaunchScreen.storyboard */,
+				3B9713181CD2585F00F897CC /* AppDelegate.swift */,
+				3B97131C1CD2585F00F897CC /* Main.storyboard */,
+				3B9713241CD2585F00F897CC /* Info.plist */,
+				3B94E6591CD396DA0011B6AC /* NavigationController.swift */,
+				3B97131A1CD2585F00F897CC /* ViewController.swift */,
+				3B89208E1CD4CBDC0065033D /* TamViewController.swift */,
+				3B8920901CD4CC020065033D /* MasaViewController.swift */,
+				3B8920921CD4CC190065033D /* QuesoViewController.swift */,
+				3B8920941CD4CC2C0065033D /* IngredientesViewController.swift */,
+				3B8920961CD4CC4B0065033D /* ConfiViewController.swift */,
+			);
+			path = OrdenarPizza;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B9713141CD2585E00F897CC /* OrdenarPizza */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B9713271CD2585F00F897CC /* Build configuration list for PBXNativeTarget "OrdenarPizza" */;
+			buildPhases = (
+				3B9713111CD2585E00F897CC /* Sources */,
+				3B9713121CD2585E00F897CC /* Frameworks */,
+				3B9713131CD2585E00F897CC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OrdenarPizza;
+			productName = OrdenarPizza;
+			productReference = 3B9713151CD2585F00F897CC /* OrdenarPizza.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3B97130D1CD2585E00F897CC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Alejandro Veiga López";
+				TargetAttributes = {
+					3B9713141CD2585E00F897CC = {
+						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 85Z64YEG2W;
+					};
+				};
+			};
+			buildConfigurationList = 3B9713101CD2585E00F897CC /* Build configuration list for PBXProject "OrdenarPizza" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3B97130C1CD2585E00F897CC;
+			productRefGroup = 3B9713161CD2585F00F897CC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B9713141CD2585E00F897CC /* OrdenarPizza */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3B9713131CD2585E00F897CC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B9713231CD2585F00F897CC /* LaunchScreen.storyboard in Resources */,
+				3B9713201CD2585F00F897CC /* Assets.xcassets in Resources */,
+				3B97131E1CD2585F00F897CC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3B9713111CD2585E00F897CC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B97131B1CD2585F00F897CC /* ViewController.swift in Sources */,
+				3B94E65A1CD396DA0011B6AC /* NavigationController.swift in Sources */,
+				3B8920971CD4CC4B0065033D /* ConfiViewController.swift in Sources */,
+				3B8920931CD4CC190065033D /* QuesoViewController.swift in Sources */,
+				3B8920911CD4CC020065033D /* MasaViewController.swift in Sources */,
+				3B9713191CD2585F00F897CC /* AppDelegate.swift in Sources */,
+				3B8920951CD4CC2C0065033D /* IngredientesViewController.swift in Sources */,
+				3B89208F1CD4CBDC0065033D /* TamViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3B97131C1CD2585F00F897CC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B97131D1CD2585F00F897CC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3B9713211CD2585F00F897CC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B9713221CD2585F00F897CC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3B9713251CD2585F00F897CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3B9713261CD2585F00F897CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3B9713281CD2585F00F897CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = OrdenarPizza/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alex.OrdenarPizza;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3B9713291CD2585F00F897CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = OrdenarPizza/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alex.OrdenarPizza;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3B9713101CD2585E00F897CC /* Build configuration list for PBXProject "OrdenarPizza" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B9713251CD2585F00F897CC /* Debug */,
+				3B9713261CD2585F00F897CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B9713271CD2585F00F897CC /* Build configuration list for PBXNativeTarget "OrdenarPizza" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B9713281CD2585F00F897CC /* Debug */,
+				3B9713291CD2585F00F897CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3B97130D1CD2585E00F897CC /* Project object */;
+}
