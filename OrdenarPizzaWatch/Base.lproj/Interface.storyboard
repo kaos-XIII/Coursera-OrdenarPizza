@@ -10,7 +10,8 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="OrdenarPizzaWatch" customModuleProvider="target">
                     <items>
-                        <imageView width="1" alignment="left" image="Pizza" contentMode="center" id="AD4-5i-n6C"/>
+                        <separator alignment="left" id="mV9-Qe-kgg"/>
+                        <imageView width="95" height="73" alignment="center" semanticContentAttribute="playback" alpha="0.69999999999999996" image="Pizza" initiallyAnimated="NO" id="AD4-5i-n6C"/>
                         <separator alignment="left" id="6LW-lu-tER"/>
                         <button width="1" alignment="left" title="Seleccionar Pizza" id="Ilj-Py-Mic">
                             <connections>
@@ -18,6 +19,9 @@
                             </connections>
                         </button>
                     </items>
+                    <connections>
+                        <outlet property="Image" destination="AD4-5i-n6C" id="OJO-xR-CNg"/>
+                    </connections>
                 </controller>
             </objects>
             <point key="canvasLocation" x="361" y="344"/>

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B6242881CE8E73C000AD6CE /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BFBF4BF1CE77927001988AE /* Interface.storyboard */; };
 		3B89208F1CD4CBDC0065033D /* TamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B89208E1CD4CBDC0065033D /* TamViewController.swift */; };
 		3B8920911CD4CC020065033D /* MasaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8920901CD4CC020065033D /* MasaViewController.swift */; };
 		3B8920931CD4CC190065033D /* QuesoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8920921CD4CC190065033D /* QuesoViewController.swift */; };
@@ -328,6 +329,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B6242881CE8E73C000AD6CE /* Interface.storyboard in Resources */,
 				3BFBF4D71CE77927001988AE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
