@@ -26,10 +26,10 @@
             </objects>
             <point key="canvasLocation" x="361" y="344"/>
         </scene>
-        <!--Tam Interface Controller-->
+        <!--Atras-->
         <scene sceneID="iiz-0E-VC6">
             <objects>
-                <controller id="rv0-zK-F9y" customClass="TamInterfaceController" customModule="OrdenarPizzaWatch_Extension">
+                <controller title="Atras" id="rv0-zK-F9y" customClass="TamInterfaceController" customModule="OrdenarPizzaWatch_Extension">
                     <items>
                         <label width="136" alignment="left" text="Tamaño de Pizza" textAlignment="center" id="R8D-U2-MBv"/>
                         <separator alignment="left" id="xQf-in-oVm"/>
@@ -52,10 +52,10 @@
             </objects>
             <point key="canvasLocation" x="626" y="344"/>
         </scene>
-        <!--Masa Interface Controller-->
+        <!--Atras-->
         <scene sceneID="YI7-bg-09a">
             <objects>
-                <controller id="eJy-Oj-Iac" customClass="MasaInterfaceController" customModule="OrdenarPizzaWatch_Extension">
+                <controller title="Atras" id="eJy-Oj-Iac" customClass="MasaInterfaceController" customModule="OrdenarPizzaWatch_Extension">
                     <items>
                         <label width="136" alignment="left" text=" Tipo de Masa" textAlignment="center" id="r6M-9u-peQ"/>
                         <separator alignment="left" id="2VQ-lY-gEB"/>
@@ -89,10 +89,10 @@
             </objects>
             <point key="canvasLocation" x="636" y="764"/>
         </scene>
-        <!--Confi Interface Controller-->
+        <!--Atras-->
         <scene sceneID="zHO-uT-lc2">
             <objects>
-                <controller id="lMh-LH-cXy" customClass="ConfiInterfaceController" customModule="OrdenarPizzaWatch_Extension">
+                <controller title="Atras" id="lMh-LH-cXy" customClass="ConfiInterfaceController" customModule="OrdenarPizzaWatch_Extension">
                     <items>
                         <label width="136" alignment="left" text="Confirmación" textAlignment="center" id="iti-D3-uON"/>
                         <separator alignment="left" id="0KJ-Mx-8XK"/>
@@ -119,10 +119,10 @@
             </objects>
             <point key="canvasLocation" x="906" y="784.25"/>
         </scene>
-        <!--Ingredientes Interface Controller-->
+        <!--Atras-->
         <scene sceneID="Mqk-l6-6vK">
             <objects>
-                <controller id="V3q-0z-iT0" customClass="IngredientesInterfaceController" customModule="OrdenarPizzaWatch_Extension">
+                <controller title="Atras" id="V3q-0z-iT0" customClass="IngredientesInterfaceController" customModule="OrdenarPizzaWatch_Extension">
                     <items>
                         <label width="136" alignment="left" text="Ingredientes" textAlignment="center" id="A8v-lu-kJw"/>
                         <separator alignment="left" id="hrp-ri-Fb7"/>
@@ -200,10 +200,10 @@
             </objects>
             <point key="canvasLocation" x="1199" y="933"/>
         </scene>
-        <!--Queso Interface Controller-->
+        <!--Atras-->
         <scene sceneID="b6d-rv-iB1">
             <objects>
-                <controller id="3Yf-Y7-Ge5" customClass="QuesoInterfaceController" customModule="OrdenarPizzaWatch_Extension">
+                <controller title="Atras" id="3Yf-Y7-Ge5" customClass="QuesoInterfaceController" customModule="OrdenarPizzaWatch_Extension">
                     <items>
                         <label width="136" alignment="left" text="Tipos de Queso" textAlignment="center" id="A5Y-uh-qV4"/>
                         <separator alignment="left" id="RmL-XS-jpi"/>

@@ -18,7 +18,7 @@ class InterfaceController: WKInterfaceController {
         super.awakeWithContext(context)
         
         // Configure interface objects here.
-        Image.setImageNamed("Pizza")
+
     }
 
     override func willActivate() {
