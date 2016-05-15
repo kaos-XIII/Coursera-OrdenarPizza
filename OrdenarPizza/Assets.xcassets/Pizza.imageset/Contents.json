@@ -12,6 +12,23 @@
     {
       "idiom" : "universal",
       "scale" : "3x"
+    },
+    {
+      "idiom" : "watch",
+      "filename" : "Pizza-1.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "watch",
+      "filename" : "Pizza-2.jpg",
+      "screen-width" : "<=145",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "watch",
+      "filename" : "Pizza-3.jpg",
+      "screen-width" : ">145",
+      "scale" : "2x"
     }
   ],
   "info" : {
